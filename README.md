@@ -26,8 +26,7 @@ If we view the human body as a precision machine, then the heart is its energy c
 **The code is just for reference.  This work is a continuation of the previous research "Electrocardio Panorama: Synthesizing New ECG Views with Self-supervision," and we look forward to future studies analyzing or synthesizing Electrocardio Panorama.**  
   
 **The data we used is as follows:**
-[Tianchi ECG dataset](https://tianchi.aliyun.com/competition/entrance/231754/information), [PTBXL Diagnostic ECG dataset](https://www.physionet.org/content/ptbdb/1.0.0/), [CPSC2018 ECG dataset](http://2018.icbeb.org/Challenge.html), [ChinaDB ECG dataset](https://www.nature.com/articles/s41597-020-0386-x#Sec9), [Panobench ECG dataset](
-https://huggingface.co/datasets/whynotJunger/Panobench)
+[Tianchi ECG dataset](https://tianchi.aliyun.com/competition/entrance/231754/information), [PTBXL Diagnostic ECG dataset](https://www.physionet.org/content/ptbdb/1.0.0/), [CPSC2018 ECG dataset](http://2018.icbeb.org/Challenge.html), [ChinaDB ECG dataset](https://www.nature.com/articles/s41597-020-0386-x#Sec9)
 
 You can use the dataset in researches on Electrocardio Panorama and other ECG academic researches.  **Commercial purposes are not allowed.** As for the original ECG data and labels, please use them following their policy.  
   
